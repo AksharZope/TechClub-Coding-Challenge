@@ -1,4 +1,5 @@
-
+# Techclub coding Challenge A01
+# Author : Akshar Zope
 
 choice = "yes"
 while(choice == "yes"):
